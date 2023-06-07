@@ -1,0 +1,5 @@
+.gpt3__nabar-links_container p,
+.gpt3__navbar-sign p,
+.gpt3__navbar-menu_container p {
+  font-family: var(--font-family);
+}
